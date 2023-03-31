@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlifShop", "AlifShop\AlifShop.csproj", "{1EE28166-C876-4BB2-BC86-FC060A07D59A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{3D6FE745-BFF8-45B4-92F2-3FAA55249262}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{09D82021-BD42-41B6-BCDB-CA05B6406FD1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EE28166-C876-4BB2-BC86-FC060A07D59A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EE28166-C876-4BB2-BC86-FC060A07D59A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EE28166-C876-4BB2-BC86-FC060A07D59A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EE28166-C876-4BB2-BC86-FC060A07D59A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D6FE745-BFF8-45B4-92F2-3FAA55249262}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D6FE745-BFF8-45B4-92F2-3FAA55249262}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D6FE745-BFF8-45B4-92F2-3FAA55249262}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D6FE745-BFF8-45B4-92F2-3FAA55249262}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09D82021-BD42-41B6-BCDB-CA05B6406FD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09D82021-BD42-41B6-BCDB-CA05B6406FD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09D82021-BD42-41B6-BCDB-CA05B6406FD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09D82021-BD42-41B6-BCDB-CA05B6406FD1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
